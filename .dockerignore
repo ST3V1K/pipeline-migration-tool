@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.venv/
+.env
+*.env
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+
+# Test and tool caches
+.tox/
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Development and CI
+.git/
+.github/
+.claude/
+skills/
+hack/
+tests/
+tox.ini
+Makefile
