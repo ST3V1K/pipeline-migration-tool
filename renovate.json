@@ -14,7 +14,8 @@
   "pip-compile": {
     "managerFilePatterns": [
       "requirements.txt",
-      "requirements-test.txt"
+      "requirements-test.txt",
+      "requirements-build.txt"
     ]
   },
 
